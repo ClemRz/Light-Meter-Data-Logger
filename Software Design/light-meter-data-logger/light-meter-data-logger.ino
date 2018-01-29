@@ -43,7 +43,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #define SD_CS                    10             // SD chip select pin
 
 // Settings
-#define SAMPLE_INTERVAL          1*SEC*MILLISEC
+#define SAMPLE_INTERVAL          6*SEC*MILLISEC
 #define FLUSH_INTERVAL           1*MINUTE*MILLISEC
 #define READ_SAMPLES             20
 
